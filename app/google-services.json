@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "754741590192",
+    "project_id": "evelyn-5a6e6",
+    "storage_bucket": "evelyn-5a6e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754741590192:android:a5eecf371353704c2fa375",
+        "android_client_info": {
+          "package_name": "com.example.evelyn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754741590192-6bl86dccsn5rjhdf03p0gp1quq4gqcbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDpnGdZGNMfgXgIl-_HvZ2vSThcXS_Dlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754741590192-6bl86dccsn5rjhdf03p0gp1quq4gqcbo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">E-Rakt</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_driver_map">Map</string>
+
+    <string name="Blood_Group">Blood Group</string>
+    <string name="hospital">Nearest Hospital</string>
+    <string name="lastDonation">Last Donation</string>
+    <string name="contact">Contact</string>
+
+    <string name="about"> <b>E-Rakt</b> is a application  that provides a reliable platform to connect local blood donors with receivers.
+E-rakt creates a communication platform for Donors and receivers who are in need of blood.
+It is a useful tool to find compatible blood donors who can receive blood request posts in their local area.
+This application has been devised keeping in mind the utility it will serve for being user-friendly, easily accessible and foremost,
+to connect people from each gender and age group (above 18 years) to voluntarily participate in saving the life via. blood contribution.
+Through this application, a portal is created where the blood doner or the needy one can reach out to the blood donor through Donor’s ID
+With our noble vision and fuller dedication, we are engaged to spread awareness about the insufficient supply and non-availability of the blood to the needy ones.
+
+</string>
+    <string name="third">
+        However, <b>Bangladesh Thalassemia Foundation </b>
+        has a registration porta to manage donors.
+        We are trying to build an Android App for helping thalassemia patients.
+        By using this app, they can manage donors location-wise easily. Besides, they can find donors using Hospital
+        name. We have also made a link with the most reputed blood donation organization <b>Badhan, Sandhani, Red Crescent Society
+         and Medicine Club</b> . People can find donor through this organizations.
+    </string>
+
+
+</resources>
